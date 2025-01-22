@@ -29,7 +29,7 @@
     "@nestjs/platform-express": "^8.0.0",
     "@nestjs/platform-socket.io": "^8.2.4",
     "@nestjs/schedule": "^1.0.2",
-    "@nestjs/serve-static": "^2.2.2",
+    "@nestjs/serve-static": "^5.0.0",
     "@nestjs/throttler": "^2.0.0",
     "@nestjs/websockets": "^8.2.4",
     "@solana/web3.js": "^1.31.0",
